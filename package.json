@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://darinadari13/.github.io/project-js",
+  "homepage": "https://github.com/YuliiaGagina/test-purejs.git",
   "scripts": {
     "startnc": "rm -rf .parcel-cache && parcel src/*.html --no-cache",
     "start": "parcel src/*.html",
